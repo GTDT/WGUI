@@ -1,0 +1,54 @@
+{
+  "window_title": "LMAOOOo",
+  "window_size": {
+    "width": 500,
+    "height": 300
+  },
+  "elements": [
+    {
+      "id": 1,
+      "type": "label",
+      "text": "Hello, world!",
+      "position": {
+        "x": 50,
+        "y": 50
+      }
+    },
+    {
+      "id": 2,
+      "type": "button",
+      "text": "cbb!",
+      "position": {
+        "x": 50,
+        "y": 100
+      }
+    },
+    {
+      "id": 3,
+      "type": "textbox",
+      "placeholder": "betka",
+      "position": {
+        "x": 50,
+        "y": 150
+      },
+      "size": {
+        "width": 200,
+        "height": 30
+      }
+    },
+
+    {
+      "id": 4,
+      "type": "textbox",
+      "placeholder": "Enter your name",
+      "position": {
+        "x": 50,
+        "y": 200
+      },
+      "size": {
+        "width": 150,
+        "height": 30
+      }
+    }
+  ]
+}
